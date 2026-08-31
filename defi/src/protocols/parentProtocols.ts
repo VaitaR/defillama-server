@@ -5623,7 +5623,7 @@ const parentProtocols: IParentProtocol[] = [
     name: "Lombard",
     url: "https://www.lombard.finance",
     description:
-      "Lombard is transforming Bitcoin's utility from a store of value into a productive financial tool through a security-first liquid Bitcoin primitive—LBTC. LBTC is a liquid, yield-bearing, natively cross-chain, and 1:1 backed by bitcoin.",
+      "Lombard is a Bitcoin finance protocol with $3 billion in Bitcoin onboarded. Founded in 2024 and backed by Polychain Capital, Franklin Templeton, and Binance Labs, Lombard's products — LBTC, BTC.b, the Lombard SDK, Bitcoin Smart Accounts and Bitcoin Earn — enable Bitcoin holders, corporate treasuries, and financial institutions to earn yield on, borrow against, and deploy their Bitcoin onchain. Lombard's infrastructure powers Bitcoin products for the users of Ledger, Binance, and Bybit, and integrates with Aave, Morpho, and 50+ DeFi protocols across 10+ blockchains.",
     logo: `${baseIconsUrl}/lombard-finance.jpg`,
     gecko_id: null,
     cmcId: null,
