@@ -1865,7 +1865,7 @@ const data5: Protocol[] = [
     symbol: "-",
     url: "https://www.lombard.finance/products-btcb/",
     description:
-      "BTC.b — is Bitcoin, bridged — decentralized, non-custodial, permissionless Bitcoin for DeFi",
+      "BTC.b is Bitcoin for DeFi. A 1:1 Bitcoin representation that works across multiple blockchains, permissionless, decentralized, and always redeemable for native BTC.",
     chain: "Bitcoin",
     logo: `${baseIconsUrl}/lombard.jpg`,
     audits: "0",
